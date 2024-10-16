@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ajoy
-- 👀 I’m interested in Python, Machine Learning, Google Earth Engine, Earth System Model
+- 👀 I’m interested in Python, Machine Learning, Google Earth Engine, Earth System Models
 - 📫 ajoy.iirs@gmail.com
 
 
