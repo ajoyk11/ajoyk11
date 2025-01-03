@@ -31,8 +31,8 @@
 - **Geospatial Science for Climate Resilience**  
 
 ## 📫 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [GitHub](https://github.com/your-username)  
+- [LinkedIn](https://www.linkedin.com/in/ajoykarmakar)  
+- [GitHub](https://github.com/ajoyk11)  
 - [GMail](mailto:ajoy.iirs@gmail.com)  
 🌟 Passionate about leveraging cutting-edge geospatial technologies to address global environmental challenges.
 
