@@ -8,19 +8,34 @@
 <!---
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/ajoyk11)
 --->
+# 🌍 Budding Geoecologist  
 
-- 👋 Hi, I’m Ajoy
-- 👀 I’m interested in Python, Machine Learning, Google Earth Engine, Earth System Models
-- 📫 ajoy.iirs@gmail.com
+🎓 **M.Tech Student in Remote Sensing & GIS** (2023-2025)  
+🌱 Specializing in **Forest Resources and Ecosystem Analysis**  
+🏢 **[Indian Institute of Remote Sensing, ISRO](https://www.iirs.gov.in/)**  
 
+## 👨‍💻 Skills & Expertise  
+- **Geospatial Analysis**: Spatial data processing and visualization  
+- **Carbon Flux Modeling**: Understanding carbon dynamics in ecosystems  
+- **Wildfire Impact Assessment**: Monitoring and analysis using remote sensing  
+- **Technical Tools**: Remote Sensing, GIS, Numerical Models, and Machine Learning
+- **Languages**: Python, R   
 
-### Skills
-- Python 
-- Google Earth Engine
-- R
+## 📚 Academic Background  
+- **M.Sc. Environmental Science**  
+- **B.Sc. Zoology**  
 
-### Education
-- MTech Remote Sensing and GIS, [Indian Institute of Remote Sensing](https://www.iirs.gov.in/)
+## 🌟 Research Interests  
+- **Biosphere-Atmosphere Interactions**  
+- **Climate Change & Ecosystem Dynamics**  
+- **Geospatial Science for Climate Resilience**  
+
+## 📫 Connect With Me  
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [GitHub](https://github.com/your-username)  
+- [GMail](mailto:ajoy.iirs@gmail.com)  
+🌟 Passionate about leveraging cutting-edge geospatial technologies to address global environmental challenges.
+
 
 
 <!---
