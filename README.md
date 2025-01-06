@@ -10,25 +10,27 @@
 --->
 # 🌍 Budding Geoecologist  
 
-🎓 **M.Tech Student in Remote Sensing & GIS** (2023-2025)  
-🌱 Specializing in **Forest Resources and Ecosystem Analysis**  
-🏢 **[Indian Institute of Remote Sensing, ISRO](https://www.iirs.gov.in/)**  
+🎓 M.Tech Student in Remote Sensing & GIS (2023-2025)  
+🌱 Specializing in Forest Resources and Ecosystem Analysis  
+🏢 [Indian Institute of Remote Sensing, ISRO](https://www.iirs.gov.in/)
 
 ## 👨‍💻 Skills & Expertise  
 - **Geospatial Analysis**: Spatial data processing and visualization  
-- **Carbon Flux Modeling**: Understanding carbon dynamics in ecosystems  
-- **Wildfire Impact Assessment**: Monitoring and analysis using remote sensing  
-- **Technical Tools**: Remote Sensing, GIS, Numerical Models, and Machine Learning
+  
+- **Technical Tools**: Remote Sensing, GIS, Google Earth Engine, Numerical Models, and Machine Learning
 - **Languages**: Python, R   
+<!---- **Carbon Flux Modeling**: Understanding carbon dynamics in ecosystems  
+- **Wildfire Impact Assessment**: Monitoring and analysis using remote sensing
+--->
 
 ## 📚 Academic Background  
-- **M.Sc. Environmental Science**  
-- **B.Sc. Zoology**  
+- M.Sc. Environmental Science
+- B.Sc. Zoology 
 
 ## 🌟 Research Interests  
-- **Biosphere-Atmosphere Interactions**  
-- **Climate Change & Ecosystem Dynamics**  
-- **Geospatial Science for Climate Resilience**  
+- Biosphere-Atmosphere Interactions 
+- Climate Change & Ecosystem Dynamics 
+- Geospatial Science for Climate Resilience  
 
 ## 📫 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/ajoykarmakar)  
