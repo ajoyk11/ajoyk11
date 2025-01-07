@@ -25,7 +25,7 @@
 
 ## 📚 Academic Background  
 - M.Sc. Environmental Science
-- B.Sc. Zoology 
+
 
 ## 🌟 Research Interests  
 - Biosphere-Atmosphere Interactions 
