@@ -18,14 +18,15 @@
 - **Geospatial Analysis**: Spatial data processing and visualization  
   
 - **Technical Tools**: Remote Sensing, GIS, Google Earth Engine, Numerical Models, and Machine Learning
-- **Languages**: Python, R   
+- **Languages**: Python, R, Julia 
 <!---- **Carbon Flux Modeling**: Understanding carbon dynamics in ecosystems  
 - **Wildfire Impact Assessment**: Monitoring and analysis using remote sensing
 --->
 
 ## 📚 Academic Background  
-- M.Sc. Environmental Science
-- B.Sc. Zoology 
+- Master of Technology in Remote Sensing & GIS (Forest Resources and Ecosystem Analysis)
+- Master of Science in  Environmental Science
+- Bachelor of Science 
 
 ## 🌟 Research Interests  
 - Biosphere-Atmosphere Interactions 
