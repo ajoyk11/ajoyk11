@@ -6,13 +6,13 @@
 [![CV Badge](https://img.shields.io/badge/My-CV-orange)]()
 --->
 <!---
-[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/ajoyk11)
+[!
 --->
 # 🌍 Budding Geoecologist  
 
-🎓 M.Tech Student in Remote Sensing & GIS (2023-2025)  
-🌱 Specializing in Forest Resources and Ecosystem Analysis  
-🏢 [Indian Institute of Remote Sensing, ISRO](https://www.iirs.gov.in/)
+🎓 Junior Research Fellow 
+🌱 Focused on Forest Resources and Ecosystem Analysis  
+🏢 [G.B. Pant National Institute of Himalayan Environment](https://gbpihed.gov.in/)
 
 ## 👨‍💻 Skills & Expertise  
 - **Geospatial Analysis**: Spatial data processing and visualization  
@@ -24,7 +24,7 @@
 --->
 
 ## 📚 Academic Background  
-- Master of Technology in Remote Sensing & GIS (Forest Resources and Ecosystem Analysis)
+- Master of Technology in Remote Sensing & GIS (Forest Resources and Ecosystem Analysis), [Indian Institute of Remote Sensing, ISRO](https://www.iirs.gov.in/)
 - Master of Science in  Environmental Science
 - Bachelor of Science 
 
