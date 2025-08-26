@@ -11,7 +11,6 @@
 # 🌍 Budding Geoecologist  
 
 🎓 Junior Research Fellow 
-🌱 Focused on Forest Resources and Ecosystem Analysis  
 🏢 [G.B. Pant National Institute of Himalayan Environment](https://gbpihed.gov.in/)
 
 ## 👨‍💻 Skills & Expertise  
@@ -24,7 +23,7 @@
 --->
 
 ## 📚 Academic Background  
-- Master of Technology in Remote Sensing & GIS (Forest Resources and Ecosystem Analysis), [Indian Institute of Remote Sensing, ISRO](https://www.iirs.gov.in/)
+- Master of Technology in Remote Sensing & GIS (Forest Resources and Ecosystem Analysis)
 - Master of Science in  Environmental Science
 - Bachelor of Science 
 
