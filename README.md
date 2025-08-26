@@ -10,7 +10,7 @@
 --->
 # 🌍 Budding Geoecologist  
 
-🎓 Junior Research Fellow 
+🎓 Junior Research Fellow at
 🏢 [G.B. Pant National Institute of Himalayan Environment](https://gbpihed.gov.in/)
 
 ## 👨‍💻 Skills & Expertise  
