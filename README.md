@@ -13,14 +13,14 @@
 🎓 Junior Research Fellow at <br>
 🏢 [G.B. Pant National Institute of Himalayan Environment](https://gbpihed.gov.in/)
 
-## 👨‍💻 Skills & Expertise  
-- **Geospatial Analysis**: Spatial data processing and visualization  
-  
-- **Technical Tools**: Remote Sensing, GIS, Google Earth Engine, Numerical Models, and Machine Learning
-- **Languages**: Python, R, Julia 
-<!---- **Carbon Flux Modeling**: Understanding carbon dynamics in ecosystems  
-- **Wildfire Impact Assessment**: Monitoring and analysis using remote sensing
---->
+
+## 💻 Technicals
+
+<img src="https://skillicons.dev/icons?i=py,r,linux,anaconda,github,git,julia,vscode" /><br>
+<img src="https://your-image-link-here](https://github.com/ajoyk11/ajoyk11.github.io/blob/main/img/other_icons/gee.png" alt="Google Earth Engine" height="40" />
+
+
+🧭 Also proficient in: Remote Sensing & GIS
 
 ## 📚 Academic Background  
 - Master of Technology in Remote Sensing & GIS (Forest Resources and Ecosystem Analysis)
