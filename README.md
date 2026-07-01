@@ -17,7 +17,8 @@
 ## 💻 Technicals
 
 <img src="https://skillicons.dev/icons?i=py,r,linux,anaconda,github,git,julia,vscode" /><br>
-<img src="https://your-image-link-here](https://github.com/ajoyk11/ajoyk11.github.io/blob/main/img/other_icons/gee.png" alt="Google Earth Engine" height="40" />
+<img src="https://raw.githubusercontent.com/ajoyk11/ajoyk11.github.io/main/img/other_icons/gee.png" alt="Google Earth Engine" height="40" />
+
 
 
 🧭 Also proficient in: Remote Sensing & GIS
