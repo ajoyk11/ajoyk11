@@ -33,10 +33,27 @@
 - Climate Change & Ecosystem Dynamics 
 - Geospatial Science for Climate Resilience  
 
-## 📫 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/ajoykarmakar)  
-- [GitHub](https://github.com/ajoyk11)  
-- [GMail](mailto:ajoy.iirs@gmail.com)  
+## 📫 Let's Connect  
+
+<p align="center">
+   <a href="mailto:ajoy.iirs@gmail.com" target="_blank">
+    <img width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ajoykarmakar" target="_blank">
+    <img width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ajoyk11" target="_blank">
+    <img width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://scholar.google.com/citations?user=ObfU_PwAAAAJ&hl=en" target="_blank">
+    <img width="40px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/08/google-scholar-logo-freelogovectors.net_.png" alt="Google Scholar" />
+  </a>
+</p>
+
+
 🌟 Passionate about leveraging cutting-edge geospatial technologies to address global environmental challenges.
 
 
