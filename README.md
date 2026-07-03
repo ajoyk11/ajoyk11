@@ -21,7 +21,7 @@
 
 
 
-🧭 Also proficient in: Remote Sensing & GIS
+🧭 Remote Sensing & GIS
 
 ## 📚 Academic Background  
 - Master of Technology in Remote Sensing & GIS (Forest Resources and Ecosystem Analysis)
