@@ -17,11 +17,14 @@
 ## 💻 Technicals
 
 <img src="https://skillicons.dev/icons?i=py,r,linux,anaconda,github,git,julia,vscode" /><br>
-<img src="https://raw.githubusercontent.com/ajoyk11/ajoyk11.github.io/main/img/other_icons/gee.png" alt="Google Earth Engine" height="40" />
+🧭<!-- <img src="https://raw.githubusercontent.com/ajoyk11/ajoyk11.github.io/main/img/other_icons/gee.png" alt="Google Earth Engine" height="40" /> -->
+<img src="https://raw.githubusercontent.com/ajoyk11/ajoyk11.github.io/main/img/other_icons/gee.png" alt="Google Earth Engine" height="40" />&nbsp;
+<img src="https://raw.githubusercontent.com/ajoyk11/ajoyk11.github.io/main/img/other_icons/qgis.png" alt="QGIS" height="40" />&nbsp;
+<img src="https://raw.githubusercontent.com/ajoyk11/ajoyk11.github.io/main/img/other_icons/arcgis.png" alt="ArcGIS" height="40" />&nbsp;
+<img src="https://raw.githubusercontent.com/ajoyk11/ajoyk11.github.io/main/img/other_icons/erdas.png" alt="ERDAS" height="40" />
 
 
 
-🧭 Remote Sensing & GIS
 
 ## 📚 Academic Background  
 - Master of Technology in Remote Sensing & GIS (Forest Resources and Ecosystem Analysis)
